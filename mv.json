@@ -1,0 +1,56 @@
+[
+    {
+        "Title": "65",
+        "Rated": "PG-12", 
+        "Genre": "Acțiune, Aventură, Dramă",
+        "Runtime": "93 min",
+        "Format": ["2D", "IMAX"],
+        "Trailer": "https://www.youtube.com/embed/bHXejJq5vr0",
+        "Released": "17 martie 2023",
+        "Plot": "Cu mai multe filme horror in portofoliu, duo-ul Scott Beck și Bryan Woods semnează regia acestui thriller științifico-fantastic în care un astronaut (Adam Driver) se prăbușește pe o planetă misterioasă pe care... surpriză! Nu este singur.",
+        "Actors": "Adam Driver, Chloe Coleman, Ariana Greenblatt, Nika Williams",
+        "Director": "Scott Beck, Bryan Woods",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/65.jpg",
+        "IMAX2D_Show": [
+        "14:00", "17:30", "19:30", "22:30"
+        ],
+        "IMAX3D_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ],
+        "DD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ],
+        "DDD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ],
+        "VIP_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ]
+        
+    },
+
+     {
+        "Title": "AIR",
+        "Rated": "PG-12", 
+        "Genre": "Dramă",
+        "Runtime": "112 min",
+        "Format": "2D, VIP",
+        "Trailer": "https://www.youtube.com/embed/BfgTUMpjPDg",
+        "Released": "07 aprilie 2023",
+        "Plot": "De la regizorul premiat Ben Affleck, Air dezvăluie parteneriatul legendar dintre atunci novicele Michael Jordan și divizia de baschet a companiei Nike ce a revoluționat lumea sportului și a culturii contemporane cu brandul Air Jordan. Această poveste emoționantă urmărește pariul care definește cariera unei echipe neconvenționale care pune totul în joc, viziunea unei mame care este conștientă de valoarea talentului imens al fiului ei și cel ce avea să devină cel mai mare fenomen al baschetului din toate timpurile.",
+        "Actors": "Matt Damon, Ben Affleck, Jason Bateman, Viola Davis, Chris Messina",
+        "Director": "Ben Affleck",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/Air.jpg",
+        "IMAX2D_Show": [
+        "14:00", "17:30", "19:30", "22:30"
+        ]
+    }
+]
+
+
+
+

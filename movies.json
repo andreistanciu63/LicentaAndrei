@@ -1,0 +1,254 @@
+[
+    {
+        "Imdb": "333",
+        "Title": "65",
+        "Rated": "PG-12", 
+        "Genre": "Acțiune, Aventură, Dramă",
+        "Runtime": "93 min",
+        "Format": "2D",
+        "Trailer": "https://www.youtube.com/embed/bHXejJq5vr0",
+        "Released": "17 martie 2023",
+        "Plot": "Cu mai multe filme horror in portofoliu, duo-ul Scott Beck și Bryan Woods semnează regia acestui thriller științifico-fantastic în care un astronaut (Adam Driver) se prăbușește pe o planetă misterioasă pe care... surpriză! Nu este singur.",
+        "Actors": "Adam Driver, Chloe Coleman, Ariana Greenblatt, Nika Williams",
+        "Director": "Scott Beck, Bryan Woods",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/65.jpg",
+        "DD_Show": [
+        "15:00", "16:30", "18:00", "21:15", "23:00"
+        ]
+
+    },
+
+    {
+        "Imdb": "324",
+        "Title": "AIR",
+        "Rated": "PG-12", 
+        "Genre": "Dramă",
+        "Runtime": "112 min",
+        "Format": "2D, VIP",
+        "Trailer": "https://www.youtube.com/embed/BfgTUMpjPDg",
+        "Released": "07 aprilie 2023",
+        "Plot": "De la regizorul premiat Ben Affleck, Air dezvăluie parteneriatul legendar dintre atunci novicele Michael Jordan și divizia de baschet a companiei Nike ce a revoluționat lumea sportului și a culturii contemporane cu brandul Air Jordan. Această poveste emoționantă urmărește pariul care definește cariera unei echipe neconvenționale care pune totul în joc, viziunea unei mame care este conștientă de valoarea talentului imens al fiului ei și cel ce avea să devină cel mai mare fenomen al baschetului din toate timpurile.",
+        "Actors": "Matt Damon, Ben Affleck, Jason Bateman, Viola Davis, Chris Messina",
+        "Director": "Ben Affleck",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/Air.jpg",
+        "DD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ],
+        "VIP_Show": [
+        "12:00", "18:00", "21:15", "23:00"
+        ]
+    },
+
+    {
+        "Imdb": "443",
+        "Title": "Avatar: The Way of Water",
+        "Rated": "PG-12", 
+        "Genre": "Acțiune, Aventură, Fantastic",
+        "Runtime": "192 min",
+        "Format": "IMAX, IMAX 3D, 4DX, 2D, 3D",
+        "Trailer": "https://www.youtube.com/embed/noKg14xLzIs",
+        "Released": "16 decembrie 2022",
+        "Plot": "La câțiva ani după lupta cu pământenii, extratereștrii de pe Pandora își continuă liniștiți viețile. Jake Sully trăiește fericit în noul lui corp alături de iubita lui. Fericirea celor de pe Pandora este însă pe cale sa fie distrusă de o nouă amenințare. North este liderul unui clan de extratereștrii necunoscuți care își spun venusieni. Acestia încep încetul cu încetul să provoace mari pagube pe Pandora, iar Jake realizează că trebuie să ia masuri împotriva fiarelor spațiale. Pe locuitorii de pe Pandora îi așteaptă o bătălie epică în care Jake va trebui să riște totul, poate chiar și propria lui viață.",
+        "Actors": "Zoe Saldana, Kate Winslet, Sigourney Weaver, Sam Worthington",
+        "Director": "James Cameron",
+        "Year": "2022",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/Avatar.jpg",
+        "DD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ]
+    },
+
+    {
+        "Imdb": "23214",
+        "Title": "CREED III",
+        "Rated": "PG-12", 
+        "Genre": "Dramă, Sport",
+        "Runtime": "116 min",
+        "Format": "IMAX, 4DX, 2D",
+        "Trailer": "https://www.youtube.com/embed/1qESNhhsco0",
+        "Released": "03 martie 2023",
+        "Plot": "După ce a dominat lumea boxului, Adonis Creed s-a bucurat de succes atât în carieră, cât și în viața de familie. Dar când un prieten din copilărie și fost fenomen al boxului, Damian, reapare după ce a ispășit o lungă pedeapsă în închisoare, Adonis este dornic să demonstreze că își merită șansa în ring. Confruntarea dintre foștii prieteni este mai mult decât o simplă ceartă. Pentru a stabili scorul final, Adonis trebuie să-și pună întreg viitorul în joc pentru a se lupta cu Damian, care nu are nimic de pierdut.",
+        "Actors": "Michael B. Jordan, Phylicia Rashad, Tessa Thompson",
+        "Director": "Michael B. Jordan",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/Creed.jpg",
+        "DD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ]
+    },
+
+    
+    {
+        "Imdb": "33213",
+        "Title": "DUNGEONS & DRAGONS: FRATIA HOTILOR",
+        "Rated": "PG-12", 
+        "Genre": "Acțiune, Aventură, Fantastic",
+        "Runtime": "134 min",
+        "Format": "IMAX, 4DX, VIP, 2D",
+        "Trailer": "https://www.youtube.com/embed/WIFfxfteSmQ",
+        "Released": "31 martie 2023",
+        "Plot": "Un hoț fermecător și banda lui de aventurieri pornesc într-o misiune epică de recuperare a unei relicve pierdute. Lucrurile o iau razna, însă, când eroii noștri deranjează pe cine nu trebuie.",
+        "Actors": "Chris Pine, Michelle Rodriguez, Regé-Jean Page, Justice Smith, Sophia Lillis, Hugh Grant",
+        "Director": "John Francis Daley, Jonathan M. Goldstein",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/dd.jpg",
+        "DD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ]
+    },
+
+    
+    {
+        "Imdb": "3335124",
+        "Title": "EXORCISTUL PAPEI",
+        "Rated": "PG-15", 
+        "Genre": "Horror, Thriller",
+        "Runtime": "103 min",
+        "Format": "VIP, 2D",
+        "Trailer": "https://www.youtube.com/embed/rLwD7HO3GnE",
+        "Released": "07 aprilie 2023",
+        "Plot": "Acesta este portretul lui Gabriele Amorth, un preot care a activat ca exorcist șef al Vaticanului și care a realizat peste 100.000 de astfel de ritualuri de-a lungul vieții.",
+        "Actors": "Russell Crowe, Franco Nero",
+        "Director": "Julius Avery",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/Exorcist.jpg",
+        "DD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ],
+        "VIP_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ]
+    },
+
+    {
+        "Imdb": "333412421",
+        "Title": "HAITA DE ACTIUNE",
+        "Rated": "PG-15", 
+        "Genre": "Acțiune, Comedie",
+        "Runtime": "99 min",
+        "Format": "VIP, 2D",
+        "Trailer": "https://www.youtube.com/embed/-_kWwsM6U-0",
+        "Released": "24 martie 2023",
+        "Plot": "O satiră polițistă văzută prin ochii lui Aurel (Vlad Brumaru), un polițist de etnie rromă aflat în prima lui zi de serviciu. El își dorește să fie un cetățean model și un polițist corect, dar cariera lui este pusă în pericol înainte să înceapă, din cauza prietenului său, Denze (Matei Dima). Acesta îl recrutează în operațiunea lui nu prea secretă Haita de acțiune.",
+        "Actors": "Antonia, Vlad Brumaru, Anca Dumitra, Matei Dima",
+        "Director": "Vali Dobrogeanu",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/Haita.jpg",
+        "DD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ],
+         "VIP_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ]
+    },
+
+
+
+    
+    {
+        "Imdb": "33312312",
+        "Title": "JOHN WICK: CAPITOLUL 4",
+        "Rated": "PG-15", 
+        "Genre": "Acțiune, Crimă, Thriller",
+        "Runtime": "169 min",
+        "Format": "IMAX, 4DX, VIP, 2D",
+        "Trailer": "https://www.youtube.com/embed/X-Dpj_x6koE",
+        "Released": "31 martie 2023",
+        "Plot": "John Wick (Keanu Reeves) pornește împotriva celor mai periculoși adversari ai săi în acest al patrulea capitol al seriei. Cu o recompensă tot mai mare oferită oricui îl elimină, John are de înfruntat asasini din elita globală, iar lupta îl poartă de la New York la Paris și până la Osaka și Berlin.",
+        "Actors": "Keanu Reeves, Laurence Fishburne, Bill Skarsgĺrd",
+        "Director": "Chad Stahelski",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/johnwick.jpg",
+        "DD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ],
+        "VIP_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ],
+        "IMAX2D_Show": [
+        "14:00", "17:30", "19:30", "22:30"
+        ]
+    },
+
+    
+    {
+        "Imdb": "33313212321",
+        "Title": "SCREAM VI",
+        "Rated": "PG-18", 
+        "Genre": "Horror, Mister, Thriller",
+        "Runtime": "123 min",
+        "Format": "4DX, 2D",
+        "Trailer": "https://www.youtube.com/embed/7KRfBDGHsE4",
+        "Released": "10 martie 2023",
+        "Plot": "În noul film Scream, cele patru supraviețuitoare ale crimelor lui Ghostface părăsesc micul orășel Woodsboro pentru a începe o viață nouă la New York.",
+        "Actors": "Melissa Barrera, Hayden Panettiere, Jenna Ortega, Courteney Cox, Dermot Mulroney",
+        "Director": "Matt Bettinelli-Olpin, Tyler Gillett",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/Scream.jpg",
+        "DD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ]
+    },
+    
+     
+    {
+        "Imdb": "3331111",
+        "Title": "SHAZAM! FURIA ZEILOR",
+        "Rated": "PG-12", 
+        "Genre": "Acțiune, Aventură, Comedie",
+        "Runtime": "131 min",
+        "Format": "IMAX, 4DX, 2D",
+        "Trailer": "https://www.youtube.com/embed/AIc671o9yCI",
+        "Released": "17 martie 2023",
+        "Plot": "Shazam! Furia zeilor continuă povestea adolescentului Billy Batson, care, după ce recită cuvântul magic „SHAZAM!”, este transformat în alter ego-ul său adult supererou Shazam.",
+        "Actors": "Meagan Good, Zachary Levi, Helen Mirren, Jack Dylan Grazer, Adam Brody, Lucy Liu, Marta Milans",
+        "Director": "David F. Sandberg",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/Shazam.jpg",
+        "DD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ]
+    },
+
+    {
+        "Imdb": "3335124",
+        "Title": "SUPER MARIO BROS: FILMUL",
+        "Rated": "PG", 
+        "Genre": "Aventură, Animație, Familie",
+        "Runtime": "92 min",
+        "Format": "IMAX, IMAX 3D, 4DX, VIP, 2D, 3D",
+        "Trailer": "https://www.youtube.com/embed/TnGl01FkMMo",
+        "Released": "07 aprilie 2023",
+        "Plot": "Adaptare cinematografică a jocului care nu mai are nevoie de nicio prezentare, lungmetrajul animat semnat de Aaron Horvath și Michael Jelenic spune povestea instalatorului Mario care pornește, alături de fratele său, Luigi, într-o călătorie printr-un labirint subteran cu misiunea de-a salva din captivitate o prințesă.",
+        "Actors": "Chris Pratt, Anya Taylor-Joy, Charles Martinet, Charlye Day, Jack Black",
+        "Director": "Aaron Horvath, Michael Jelenic",
+        "Year": "2023",
+        "Language": "EN  ·  (  SUB :  RO  )",
+        "Poster": "./img/Mario.jpg",
+        "DD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ],
+         "DDD_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ],
+         "IMAX3D_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ],
+         "VIP_Show": [
+        "15:00", "18:00", "21:15", "23:00"
+        ]
+    }
+
+]

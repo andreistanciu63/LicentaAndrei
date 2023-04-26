@@ -1,0 +1,40 @@
+body {
+}
+
+.movie-card-in {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.trailer-card {
+    margin-top: 1rem;
+}
+
+.trailer-card iframe {
+    width: 800px;
+    height: 500px;
+    border: none;
+}
+
+h1 {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    color: white;
+    font-size: 1.8rem;
+}
+
+h1 span {
+    margin-left: 1rem;
+    background-color: white;
+    border-radius: 1rem;
+    color: black;
+}
+
+.box {
+    display: flex;
+}
